@@ -1,0 +1,26 @@
+{
+  "name": "vanillacbor",
+  "version": "0.0.1",
+  "description": "A vanillaJS CBOR decoder/encoder",
+  "main": "lib/vanillacbor.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrjemand/vanillaCBOR.git"
+  },
+  "keywords": [
+    "cbor",
+    "vanilla"
+  ],
+  "author": "Yuriy Ackermann @herrjemand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herrjemand/vanillaCBOR/issues"
+  },
+  "homepage": "https://github.com/herrjemand/vanillaCBOR#readme"
+}
